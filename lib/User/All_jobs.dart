@@ -18,7 +18,7 @@ class _AllJobsState extends State<AllJobs> {
   void cc() async {
     final database = Provider.of<Database>(context, listen: false);
     _applied = await database.userJobApplied(widget.uid).first;
-    print('ssss');
+    
     print(_applied[0].jobname + _applied[0].recruiterwhoposted);
     for (int i = 0; i < _applied.length; i++) {
       _aap.add(_applied[i].jobname + _applied[i].recruiterwhoposted);
@@ -28,7 +28,6 @@ class _AllJobsState extends State<AllJobs> {
 
   bool check(Job job) {
     String now = job.jobname + job.recruiterwhoposted;
-    print('nnnnn' + now);
     if (_aap.contains(now)) {
       return true;
     }
