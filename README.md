@@ -1,4 +1,4 @@
-# Job Search Flutter project.
+# Job Search Flutter App.
 
 Complete Job Serch App made in Flutter.
 Using BLoc pattern and Providers.
