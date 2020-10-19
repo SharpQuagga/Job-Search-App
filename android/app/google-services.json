@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "599480332571",
+    "firebase_url": "https://jobportal-9e4b9.firebaseio.com",
+    "project_id": "jobportal-9e4b9",
+    "storage_bucket": "jobportal-9e4b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599480332571:android:1e4d1da6d631c8f20e63be",
+        "android_client_info": {
+          "package_name": "com.example.squareboat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599480332571-tnm7ctgfvqkja018urt5i5hei400fvse.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.squareboat",
+            "certificate_hash": "81db27df02895dee96c1d8d467253914b5a1ba35"
+          }
+        },
+        {
+          "client_id": "599480332571-0957dcs2ddaruc0mukrnsklhdkb9g8hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSnv1g--phk1sSH-H5JWscBMHpNEmNRTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599480332571-0957dcs2ddaruc0mukrnsklhdkb9g8hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
