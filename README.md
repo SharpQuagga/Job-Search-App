@@ -4,6 +4,20 @@ Complete Job Serch App made in Flutter.
 Using BLoc pattern and Providers.
 Cloud Firestore for Backend.
 
+## Steps to Run
+1. Download/Clone the project
+2. Open cmd in the folder in which you have downloaded the code.
+3. type 'flutter run' in the cmd.
+
+## Steps to contribute
+1. Fork the project.
+2. Donload the project in your local machine
+3. Create a new Branch.
+4. Make Changes.
+5. Create a pull request.
+
+
+
 ## App Flow
 ![jobseachapp](https://user-images.githubusercontent.com/39939752/96454428-775dbd80-1239-11eb-8050-0ff8010fd088.png)
 
